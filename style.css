@@ -1,0 +1,70 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+body > div {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+    margin: 200px;
+    padding: 5%;
+}
+
+#logo{
+    margin-left: 38%;
+    width: 25%;
+}
+
+header > div{
+    color: rgb(52, 235, 55);
+    text-align: center;
+    font-size: 50px;
+}
+
+nav{
+    background-color: rgb(52, 235, 55);
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    padding: 10px;
+}
+
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+span{
+    font-size: 40px;
+}
+
+#statocarica1{
+    color: yellow;
+    width: 30%;
+    background-color: yellow;
+    border-radius: 10px;
+
+}
+
+#statocarica2{
+    color: green;
+    width:45%;
+    background-color: green;
+    border-radius: 10px;
+}
+
+#statocarica3{
+    color: red;
+    width: 17%;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.monopattini{
+    margin-top: 2%;
+}
